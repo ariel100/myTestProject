@@ -2,9 +2,9 @@ int main()
 {
    int val;
    
-   printf("calc version 1.0\n");
+   printf("calc version 2.0\n");
    
-   val = calc(100);
+   val = calc(200);
    
    printf("cvalue is %d\n", val);
    

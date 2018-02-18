@@ -1,4 +1,4 @@
 int calc(int val)
 {
-  return val*100;
+  return val*300;
 }

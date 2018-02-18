@@ -4,9 +4,9 @@ int main()
    
    printf("calc version 2.0\n");
    
-   val = calc(1000);
+   val = calc(2000);
    
-   printf("cvalue is %d\n", val);
+   printf("value is %d\n", val);
    
    return 0;
 }

@@ -4,7 +4,7 @@ int main()
    
    printf("calc version 2.0\n");
    
-   val = calc(300);
+   val = calc(1000);
    
    printf("cvalue is %d\n", val);
    

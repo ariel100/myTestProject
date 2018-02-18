@@ -2,7 +2,7 @@ int main()
 {
    int val;
    
-   printf("calc version 2.0\n");
+   printf("calc version 3.0\n");
    
    val = calc(5000);
    
